@@ -16,4 +16,4 @@ The third dashboard investigates the relationship between daily prices and apart
 
 The fourth dashboard delves into the proximity of apartments to the metro, analyzing the average distance from the metro by area and the average daily price of apartments near specific metro stops.
 
-Result 29/30
+Result: 29/30
