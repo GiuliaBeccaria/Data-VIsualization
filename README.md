@@ -15,3 +15,5 @@ The second dashboard explores the relationship between daily apartment prices an
 The third dashboard investigates the relationship between daily prices and apartment availability, as well as the geographical distribution of apartments with prices above the average.
 
 The fourth dashboard delves into the proximity of apartments to the metro, analyzing the average distance from the metro by area and the average daily price of apartments near specific metro stops.
+
+Result 29/30
